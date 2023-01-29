@@ -1,0 +1,18 @@
+https://tutorcs.com
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+Turtle Graphics - Pro!
+
+For this part, you must have completed part 1 of the assignment. Do not spend time here until you have completed and thoroughly tested your solution.
+
+Still here? OK! Open the file in the starter code directory called:
+
+Part2-README.txt
+It contains the instructions of what you need to do to turn your standard turtle to a turtle pro!
+
+Similar to part 1, you have an interactive test driver and an automated test driver. Be sure to use them to check your work as you implement your solution, but just like part 1 passing all the tests in the test driver does not mean your code is bug/error free. Be thorough and careful in your testing to ensure your solution works!
+
+Once you're done, submit only your turtle-pro.c file in this section of the assignment. 
+
+That's that for A1! Now make some nifty images, and if you create something particularly nifty, feel free to show it to us!

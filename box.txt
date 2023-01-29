@@ -1,0 +1,17 @@
+https://tutorcs.com
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+penup
+forward 100
+right
+forward 100
+pendown
+forward 300
+left
+forward 300
+left
+forward 300
+left
+forward 300
+left
